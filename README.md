@@ -33,7 +33,9 @@
 #### ◼ HTML에 CSS를 넣을 수 있는 3가지 방법 
 
 (1) inline 태그에 직접 넣기 
+
 (2) internal style 태그에 직접 작성하기
+
 (3) external 외부 css 파일을 link 태그로 넣기 
 
 (css는 기본적으로 cascading이 적용되지만 그와 별개로 inline 스타일은 우선적으로 적용되므로 사용에 유의가 필요)
